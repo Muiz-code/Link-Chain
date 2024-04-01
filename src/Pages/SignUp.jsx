@@ -16,7 +16,7 @@ const SignUp = () => {
           <MyForm key={items.id} {...items} style={items.style} />
         ))}
         <Link
-          to="#"
+          to="/dashboard"
           className="w-[100%] flex place-items-center justify-center mt-2"
         >
           <Button

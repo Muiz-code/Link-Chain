@@ -32,3 +32,28 @@
 .navbarr ::after {
   color: #4bf0a5;
 }
+.hhhh {
+  background-color: red;
+}
+.text {
+  color: #7d3c98 !important;
+  font-size: 20px !important;
+}
+.text:hover {
+  background-color: red;
+  transform: scale(1.02);
+}
+.icon {
+  border: 1px solid #7d3c98 !important;
+}
+.content1 {
+  background: #cdb1dd;
+  z-index: -1;
+}
+.profileImg {
+  background: #7d3c98;
+  border-radius: 80px 0px 0px 80px;
+}
+.icon2 {
+  border: 1px solid #fff !important;
+}
