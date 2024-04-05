@@ -26,11 +26,11 @@ const Login = () => {
 
         <Link
           to="/dashboard"
-          className="w-[100%] flex place-items-center justify-center mt-2"
+          className="w-[100%] flex place-items-center justify-center mt-2 text-decoration-none"
         >
           <Button
             btnText="LOG IN"
-            btnStyle="bg-[#7D3C98] w-[70%] flex place-items-center justify-center p-3 rounded-lg  text-white text-[25px] font-[500]"
+            btnStyle="bg-[#7D3C98] w-[70%] flex place-items-center justify-center p-3 rounded-lg  text-white text-[25px] font-[500] text-decoration-none"
           />
         </Link>
       </form>

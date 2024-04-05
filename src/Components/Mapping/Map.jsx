@@ -1,7 +1,7 @@
 import eclipse1 from "/src/assets/Elipse 1.png";
 import eclipse2 from "/src/assets/Eclipse2.png";
 import eclipse3 from "/src/assets/Eclipse3.png";
-import portfolio from "/src/assets/Portfolio.png";
+import portfolio from "/src/assets/Portfolio (1).png";
 import twitter from "/src/assets/tweera.png";
 import discord from "/src/assets/Discord.png";
 import tiktok from "/src/assets/Tiktok.png";

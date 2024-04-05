@@ -13,13 +13,13 @@ const SideBar = () => {
         <div className="button navbarr flex flex-col w-[100%] justify-center place-items-end">
           <Link
             to="/login"
-            className="text-[25px] text-[#7D3C98] flex font-[600] rounded-xl px-5 py-3 "
+            className="text-[25px] text-[#7D3C98] flex font-[600] rounded-xl px-4 text-decoration-none  py-3 "
           >
             LOG IN
           </Link>
           <Link
             to="/signup"
-            className="text-[25px] text-[#7D3C98] flex font-[600] rounded-xl px-5 py-3 "
+            className="text-[25px] text-[#7D3C98] flex font-[600] rounded-xl px-4 text-decoration-none py-3 "
           >
             SIGN UP
           </Link>

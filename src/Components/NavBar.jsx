@@ -28,7 +28,7 @@ const NavBar = () => {
                 Learn
               </Nav.Link>
             </Nav>
-            <Nav className="ms-auto d-flex gap-3 justify-content-center">
+            <Nav className="ms-auto d-flex gap-3 justify-content-center w-[30%]">
               <Nav.Link className="w-[15%] icon rounded-full" href="#home">
                 <img src={bell} className="w-[100%]" alt="" />
               </Nav.Link>
